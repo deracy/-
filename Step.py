@@ -7,4 +7,8 @@ for i in range(N):
     B = MaxNum
     ans += B-people[i]
 
+"""
+ブランチの練習してみるよ
+"""
+
 print(ans)
